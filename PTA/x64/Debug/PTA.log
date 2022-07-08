@@ -1,0 +1,6 @@
+﻿  求单链表结点的乘积和.c
+E:\visual studio2022\PTA\求单链表结点的乘积和.c(38,24): warning C4047: “=”:“List *”与“PtrToNode”的间接级别不同
+E:\visual studio2022\PTA\求单链表结点的乘积和.c(40,31): warning C4047: “<=”:“int”与“List *”的间接级别不同
+E:\visual studio2022\PTA\求单链表结点的乘积和.c(35,1): warning C4047: “初始化”:“List *”与“PtrToNode”的间接级别不同
+E:\visual studio2022\PTA\求单链表结点的乘积和.c(46): warning C4715: “FactorialSum”: 不是所有的控件路径都返回值
+  PTA.vcxproj -> E:\visual studio2022\PTA\x64\Debug\PTA.exe
